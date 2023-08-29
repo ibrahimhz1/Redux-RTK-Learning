@@ -1,0 +1,48 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+html, body{
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  background-color: #242424;
+  color: white;
+}
+
+#main{
+  width: 100vw;
+  height: 100vh;
+  border: 5px solid white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#accountContainer{
+  border: 1px solid white;
+  width: 50%;
+  height: 25vh;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#bonusContainer{
+  border: 1px solid white;
+  width: 50%;
+  height: 25vh;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
