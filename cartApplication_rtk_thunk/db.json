@@ -555,21 +555,11 @@
   ],
   "cart": [
     {
-      "2": "",
-      "3": "",
       "id": 1,
       "title": "iPhone 9",
       "description": "An apple mobile which is nothing like apple",
       "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
       "price": 549,
-      "quantity": 1
-    },
-    {
-      "id": 6,
-      "title": "MacBook Pro",
-      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-      "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
-      "price": 1749,
       "quantity": 1
     }
   ]
